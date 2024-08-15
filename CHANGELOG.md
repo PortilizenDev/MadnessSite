@@ -7,6 +7,8 @@
 - Added Light mode
 ### Fixed
 - Fixed 404 Stylesheet(s)
+- Fixed "/MadnessSite/Page/Help.html" href
+- Fixed "/MadnessSite/Page/BlogList.html" href
 
 ## Alpha 0.0.1 - August 14th 2024
 ### Note
