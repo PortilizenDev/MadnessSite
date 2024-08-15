@@ -1,4 +1,8 @@
 # MadnessSite
+## Alpha 0.0.2 - August 15th 2024
+### Changed
+- Site is now properly titled, versioned, credited, etc.
+
 ## Alpha 0.0.1 - August 14th 2024
 ### Note
 this is just the barebones site from using the draggingblog template! expect more content/updates! you might even notice some happening while the site is up. But that's just for while it's in the... **Alpha** stage.
