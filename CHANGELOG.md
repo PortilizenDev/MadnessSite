@@ -1,7 +1,12 @@
 # MadnessSite
 ## Alpha 0.0.2 - August 15th 2024
 ### Changed
-- Site is now properly titled, versioned, credited, etc.
+- Changed it so Site is now properly titled, versioned, credited, etc.
+### Added
+- Added Settings Page
+- Added Light mode
+### Fixed
+- Fixed 404 Stylesheet(s)
 
 ## Alpha 0.0.1 - August 14th 2024
 ### Note
