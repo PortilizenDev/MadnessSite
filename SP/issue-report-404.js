@@ -3,7 +3,7 @@ function setHref(id, href) {
   a.href = href;
 }
 
-var GITLINK = "https://github.com/DragginGroup/MadnessSite/issues/new/choose"
+var GITLINK = "https://github.com/PortilizenDev/MadnessSite/issues/new/choose"
 let VERSION = document.getElementById('version').innerHTML
 
 if (VERSION.contains('-dev')) {
