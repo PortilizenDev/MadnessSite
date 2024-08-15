@@ -5,6 +5,7 @@
 ### Added
 - Added Settings Page
 - Added Light mode
+- Added Theme Switching to all pages. (they recognize the theme and adapt)
 ### Fixed
 - Fixed 404 Stylesheet(s)
 - Fixed "/MadnessSite/Page/Help.html" href
