@@ -1,5 +1,13 @@
+[data-theme="dark"] {
+  --cred-color: #000000;
+}
+
+[data-theme="light"] {
+  --cred-color: #ffffff;
+}
+
 .creditsBlurb {
-  background-color: Black;
+  background-color: var(--cred-color);
   font-size: 10px;
   font-weight: 500;
 }
