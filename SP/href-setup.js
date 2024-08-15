@@ -1,9 +1,9 @@
 /*
   id: text id: ex: baxkBtn
   href: the file your heading too. ex: blog.html
-  inital: what comes before the href: ex: ../Blog/Pages
+  inital: what comes before the href: ex: ../MadnessSite/Pages
 */
-function setHref(id, href, inital="/Blog/Pages/") {
+function setHref(id, href, inital="/MadnessSite/Pages/") {
   var a = document.getElementById(id);
   a.href = inital + href;
 }

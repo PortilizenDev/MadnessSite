@@ -63,7 +63,7 @@ Make sure to recommend changes to the site!
 - site contents are now centered
 - archive folder is restored
 ### Fixed
-- [Fixed 404 on Credits Leave](https://github.com/DragginGroup/Blog/issues/4#issue-2456296931)
+- [Fixed 404 on Credits Leave](https://github.com/DragginGroup/MadnessSite/issues/4#issue-2456296931)
 
 ## v0.2.0 - August 8th 2024
 ### Changed
@@ -78,7 +78,7 @@ Make sure to recommend changes to the site!
 - ANIMATED README WIP GIF
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/DragginGroup/Blog/main/Content/Github/WIP.gif" width="150" title="wip">
+<img src="https://raw.githubusercontent.com/DragginGroup/MadnessSite/main/Content/Github/WIP.gif" width="150" title="wip">
 </p>
 
 - JAVASCRIPT FILES THAT CONTROL INDIVIDUAL PARTS OF THE SITE! (I call them JS Packets)
