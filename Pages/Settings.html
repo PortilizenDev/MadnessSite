@@ -5,6 +5,9 @@
     <link rel="stylesheet" href="./Styles/base.css">
   </head>
   <body class="color1">
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    
     <div class="color4" align="center">
         <a href="../index.html" id="backBtn">Back</a>
         <a href="./Credits.html" id="CreditsPage"> Credits</a>
@@ -12,7 +15,12 @@
     
     <fieldset class="color2">
       <legend>Settings Page</legend>
-
+      <a>
+        <button onClick="themeSwitch">
+          Light/Dark Mode
+          <ion-icon name="contrast-outline"></ion-icon>
+        </button>
+      </a>
     </fieldset>
 
     <script src="/MadnessSite/SP/href-setup.js"></script>
