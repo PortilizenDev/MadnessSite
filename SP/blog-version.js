@@ -1,16 +1,19 @@
-let VERSION = "0.2.4"
-let SUFFIX = "-dev"
+let VERSION = "0.0.1"
+let STATE = "-alpha"
+let SUFFIX = ""
 let PREFIX = ""
-let FALLBACK_VERSION = "0.0.0\nversion error"
+let FALLBACK_VERSION = "v0.0.0"
 
 var string_ver = ""
 
 function validVersion()
 {
+  var returnVer = PREFIX + "v" + VERSION + SUFFIX + STATE;
+  
   if (VERSION.length < 5)
     return FALLBACK_VERSION;
 
-  return PREFIX + "v" + VERSION + SUFFIX;
+  return returnVer;
 }
 
 string_ver = validVersion()
