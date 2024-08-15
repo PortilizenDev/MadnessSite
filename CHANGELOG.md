@@ -9,6 +9,9 @@
 - Fixed 404 Stylesheet(s)
 - Fixed "/MadnessSite/Page/Help.html" href
 - Fixed "/MadnessSite/Page/BlogList.html" href
+### Removed
+- Removed "Development Source" from help page
+- Removed "Development Issues" from help page
 
 ## Alpha 0.0.1 - August 14th 2024
 ### Note
