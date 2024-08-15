@@ -5,7 +5,7 @@
 Github my beloved
 </p>
 
-<h1 align="center">DraggingBlog</h1>
+<h1 align="center">MadnessSite</h1>
 
 <p align="center">
 All things Dragging Related
