@@ -14,3 +14,7 @@
 .color5 {
   padding: 10px;
 }
+
+.toc {
+  height: calc-size(auto);
+}
