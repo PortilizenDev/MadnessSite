@@ -23,5 +23,9 @@ function calculateSettingAsThemeString({ localStorageTheme, systemSettingDark })
 function updateThemeOnHtmlEl({ theme }) {
   document.querySelector("html").setAttribute("data-theme", theme);
 }
+const localStorageTheme = localStorage.getItem("theme");
+const systemSettingDark = window.matchMedia("(prefers-color-scheme: dark)");
+
+let currentThemeSetting = calculateSettingAsThemeString({ localStorageTheme, systemSettingDark });
 
 updateThemeOnHtmlEl({ theme: currentThemeSetting });
