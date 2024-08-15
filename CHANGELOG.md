@@ -1,5 +1,11 @@
-# August 14th 2024
-## v0.2.4
+# MadnessSite
+## Alpha 0.0.1 - August 14th 2024
+### Note
+this is just the barebones site from using the draggingblog template! expect more content/updates! you might even notice some happening while the site is up. But that's just for while it's in the... **Alpha** stage.
+Make sure to recommend changes to the site!
+
+# DraggingBlog/Base
+## v0.2.4 - August 14th 2024
 ### Added
 - Added Missing Drago Cuven Credits
 - Added Table of Contents to blog
@@ -13,8 +19,7 @@
 ### Changed
 - Changed the whole changelog so now it follows the new format
 
-# August 9th 2024
-## v0.2.3
+## v0.2.3 - August 9th 2024
 ### Added
 - 10 pixel padding (suggestion by bit7)
 - Credit Tab for Discord user suggestions
@@ -28,7 +33,7 @@
 ### Removed
 - Wip img and text is removed from home page
 
-## v0.2.2
+## v0.2.2 - August 9th 2024
 ### Added
 - Readded Blogs List Page
 - Readded Blog 1 Page
@@ -43,8 +48,7 @@
 - Worked on Blog 1
 - Messed around with Credit Pages Styling
 
-# August 8th 2024
-## v0.2.1
+## v0.2.1 - August 8th 2024
 ### Removed
 - Removed and Redid Pages Folder
 - Removed Content/Source Folder, now JSP Folder not in Content Folder
@@ -57,7 +61,7 @@
 ### Fixed
 - [Fixed 404 on Credits Leave](https://github.com/DragginGroup/Blog/issues/4#issue-2456296931)
 
-## v0.2.0
+## v0.2.0 - August 8th 2024
 ### Changed
 - Blog Version is now literally Hard-coded, through code. Lolz
 - Slow Scrolling Text...
@@ -83,15 +87,15 @@
 - some little font weight fixes
 - Blogs Page works
 
-## v0.1.2
+## v0.1.2 - August 8th 2024
 ### Fixed
 - I hardcode the blog Version now. Fuck me man...
 
-## v0.1.1
+## v0.1.1 - August 8th 2024
 ### Fixed
 - I fixed one small thing lol, that was fast
 
-## v0.1
+## v0.1 - August 8th 2024
 ### Added
 - Main Site
 - Credits Page
