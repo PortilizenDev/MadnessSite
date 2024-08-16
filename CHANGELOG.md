@@ -1,5 +1,5 @@
 # MadnessSite
-## Alpha 0.0.2 - August 15th 2024
+## Alpha 0.0.2 - August 16th 2024
 ### Changed
 - Changed it so Site is now properly titled, versioned, credited, etc.
 ### Added
