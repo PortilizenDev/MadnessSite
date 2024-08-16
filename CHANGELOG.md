@@ -1,4 +1,9 @@
 # MadnessSite
+## Alpha 0.0.3 - August 17th 2024
+### Added
+- Added Games Page
+  - Added Sectioned
+
 ## Alpha 0.0.2 - August 16th 2024
 ### Changed
 - Changed it so Site is now properly titled, versioned, credited, etc.
