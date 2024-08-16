@@ -1,4 +1,4 @@
-let VERSION = "0.0.1"
+let VERSION = "0.0.2"
 let STATE = "-alpha"
 let SUFFIX = ""
 let PREFIX = ""
